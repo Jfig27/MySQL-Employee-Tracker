@@ -11,4 +11,4 @@ This command-line application can help manage the employees of a company. Node, 
 https://youtu.be/WJfe0F3aCkE
 
 ## Screenshot
-![some](.\Assets\commandline.png)
+![command line view](./Assets/commandline.png)
